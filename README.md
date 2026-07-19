@@ -1,0 +1,1 @@
+# BrowserScript-Currency_Converter_NZD
